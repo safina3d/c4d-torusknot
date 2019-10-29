@@ -1,0 +1,21 @@
+#pragma once
+
+enum {
+
+    Oknot = 1000,
+
+    KNOT_RANGE_MIN,
+    KNOT_RANGE_MAX,
+    KNOT_STEP,
+
+    KNOT_PARAM_R0,
+    KNOT_PARAM_R1,
+    KNOT_PARAM_N,
+
+    KNOT_CUBIC_INTERPOLATION,
+    KNOT_CLOSE_SPLINE,
+
+    KNOT_POINT_COUNT,
+
+    
+};
