@@ -6,7 +6,7 @@
 
 
 ### What is TorusKnot ?
-- TorusKnot is a Cinema 4D python plugin. It allows you to generate a
+- TorusKnot is a Cinema 4D python plugin. It allows you to generate a 3D torus knot spline.
 
 
 ### Installation:
