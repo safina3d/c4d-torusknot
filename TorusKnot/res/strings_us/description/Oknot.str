@@ -2,13 +2,55 @@ STRINGTABLE Oknot {
 
     Oknot                               "Torus Knot Generator";
 
+    KNOT_PREDEFINED_KNOT_LIST           "Predefined Knots";
+    KNOT_PREDEFINED_KNOT_0              "T(2, 1)";
+    KNOT_PREDEFINED_KNOT_1              "T(3, 2)";
+    KNOT_PREDEFINED_KNOT_2              "T(4, 3)";
+    KNOT_PREDEFINED_KNOT_3              "T(5, 2)";
+    KNOT_PREDEFINED_KNOT_4              "T(5, 3)";
+    KNOT_PREDEFINED_KNOT_5              "T(5, 4)";
+    KNOT_PREDEFINED_KNOT_6              "T(6, 5)";
+    KNOT_PREDEFINED_KNOT_7              "T(7, 2)";
+    KNOT_PREDEFINED_KNOT_8              "T(7, 3)";
+    KNOT_PREDEFINED_KNOT_9              "T(7, 4)";
+    KNOT_PREDEFINED_KNOT_10             "T(7, 5)";
+    KNOT_PREDEFINED_KNOT_11             "T(7, 6)";
+    KNOT_PREDEFINED_KNOT_12             "T(8, 3)";
+    KNOT_PREDEFINED_KNOT_13             "T(8, 5)";
+    KNOT_PREDEFINED_KNOT_14             "T(9, 2)";
+    KNOT_PREDEFINED_KNOT_15             "T(9, 4)";
+    KNOT_PREDEFINED_KNOT_16             "T(9, 5)";
+    KNOT_PREDEFINED_KNOT_17             "T(10, 3)";
+    KNOT_PREDEFINED_KNOT_18             "T(11, 2)";
+    KNOT_PREDEFINED_KNOT_19             "T(11, 3)";
+    KNOT_PREDEFINED_KNOT_20             "T(11, 4)";
+    KNOT_PREDEFINED_KNOT_21             "T(13, 2)";
+    KNOT_PREDEFINED_KNOT_22             "T(13, 3)";
+    KNOT_PREDEFINED_KNOT_23             "T(14, 3)";
+    KNOT_PREDEFINED_KNOT_24             "T(15, 2)";
+    KNOT_PREDEFINED_KNOT_25             "T(16, 3)";
+    KNOT_PREDEFINED_KNOT_26             "T(17, 2)";
+    KNOT_PREDEFINED_KNOT_27             "T(17, 3)";
+    KNOT_PREDEFINED_KNOT_28             "T(19, 2)";
+    KNOT_PREDEFINED_KNOT_29             "T(21, 2)";
+    KNOT_PREDEFINED_KNOT_30             "T(23, 2)";
+    KNOT_PREDEFINED_KNOT_31             "T(25, 2)";
+    KNOT_PREDEFINED_KNOT_32             "T(27, 2)";
+    KNOT_PREDEFINED_KNOT_33             "T(29, 2)";
+    KNOT_PREDEFINED_KNOT_34             "T(31, 2)";
+    KNOT_PREDEFINED_KNOT_35             "T(33, 2)";
+    KNOT_PREDEFINED_KNOT_36             "T(35, 2)";
+
+
+
     KNOT_RANGE_MIN                      "Range min";
     KNOT_RANGE_MAX                      "Range max";
     KNOT_STEP                           "Step";
 
     KNOT_PARAM_R0                       "R";
     KNOT_PARAM_R1                       "r";
-    KNOT_PARAM_N                        "n";
+    KNOT_PARAM_P                        "p";
+    KNOT_PARAM_Q                        "q";
 
     KNOT_CUBIC_INTERPOLATION            "Cubic interpolation";
     KNOT_CLOSE_SPLINE                   "Close spline";
